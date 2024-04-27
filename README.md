@@ -1,1 +1,2 @@
 # raspberry-4B
+简单介绍通过树莓派4B控制小车以及部署opencv人脸识别和yolo目标检测
